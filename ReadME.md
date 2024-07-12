@@ -1,12 +1,11 @@
 # Comparision of Epoch Extraction Methods
 
-> Abhinav Marri `2021112015`<br>
-> Harinie Sivaramasethu `2021114008`
+> Abhinav Marri <br>
+> Harinie Sivaramasethu 
 
 ## FILE STRUCTURE :
 
-- SSP_PROJECT_EPOCH_EXTRACTION
-
+- Code
   - DYPSA
   - LP ERROR
   - MLED
@@ -14,10 +13,13 @@
   - wav
   - ZFF
   - ZP ZFR
+- Results
+  
 
-- The folders are named after the method of epoch extractions that are implemented in the files that they contain.
+- The folders in code are named after the method of epoch extractions that are implemented in the files that they contain.
 - `DYPSA` and `ZP ZFR` contain matlab codes for epoch extraction and corresponding results.
 - The rest of the folders contain '.ipynb' files that contain the outputs of epoch extraction on a specific frame.
+- The results folders consists of images of the wav snippet, epoch markings and other such results obtained.
 
 ### INPUT :
 
